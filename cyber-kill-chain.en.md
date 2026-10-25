@@ -3,7 +3,7 @@
 > Notes for strengthening defense by understanding how attacks unfold.
 > Written while working through the TryHackMe **"Cyber Kill Chain"** room.
 
-🌐 Languages: [Azərbaycanca](cyber-kill-chain.md) | **English**
+
 
 ---
 
