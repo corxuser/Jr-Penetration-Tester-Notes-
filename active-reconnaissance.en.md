@@ -3,7 +3,6 @@
 > Gathering information by directly engaging the target, and the essential tools for it.
 > Written while working through the TryHackMe **"Active Reconnaissance"** room.
 
-🌐 Languages: [Azərbaycanca](active-reconnaissance.md) | **English**
 
 ---
 
