@@ -3,7 +3,6 @@
 > Techniques and tools for gathering information without directly touching the target.
 > Written while working through the TryHackMe **"Passive Reconnaissance"** room.
 
-🌐 Languages: [Azərbaycanca](passive-reconnaissance.md) | **English**
 
 ---
 
