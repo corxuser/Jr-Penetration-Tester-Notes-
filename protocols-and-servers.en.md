@@ -3,7 +3,6 @@
 > How Telnet, HTTP, FTP, SMTP, POP3 and IMAP work "under the hood", and the cleartext problem.
 > Written while working through the TryHackMe **"Protocols and Servers"** room.
 
-🌐 Languages: [Azərbaycanca](protocols-and-servers.md) | **English**
 
 ---
 
