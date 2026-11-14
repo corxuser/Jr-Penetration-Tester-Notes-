@@ -3,7 +3,6 @@
 > Attacks against passwords and cleartext traffic; mitigation via SSH and SSL/TLS.
 > Written while working through the TryHackMe **"Protocols and Servers 2"** room.
 
-🌐 Languages: [Azərbaycanca](protocols-and-servers-2.md) | **English**
 
 ---
 
