@@ -3,7 +3,6 @@
 > Finding which systems are online with ARP, ICMP, and TCP/UDP before port-scanning.
 > Written while working through the TryHackMe **"Nmap Live Host Discovery"** room.
 
-🌐 Languages: [Azərbaycanca](nmap-live-host-discovery.md) | **English**
 
 ---
 
