@@ -3,7 +3,6 @@
 > Null, FIN, Xmas, Maimon, ACK, Window scans, spoofing, decoys, fragmentation, and the idle/zombie scan.
 > Written while working through the TryHackMe **"Nmap Advanced Port Scans"** room.
 
-🌐 Languages: [Azərbaycanca](nmap-advanced-port-scans.md) | **English**
 
 ---
 
