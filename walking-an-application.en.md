@@ -3,7 +3,6 @@
 > Manually reviewing a web application using only the browser's own tools — no scanners, no automation.
 > Written while working through the TryHackMe **"Walking An Application"** room.
 
-🌐 Languages: [Azərbaycanca](walking-an-application.md) | **English**
 
 ---
 
