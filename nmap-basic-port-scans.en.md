@@ -3,7 +3,6 @@
 > How TCP Connect, TCP SYN, and UDP scans work, port states, and tuning options.
 > Written while working through the TryHackMe **"Nmap Basic Port Scans"** room.
 
-🌐 Languages: [Azərbaycanca](nmap-basic-port-scans.md) | **English**
 
 ---
 
