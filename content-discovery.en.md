@@ -3,7 +3,6 @@
 > Finding hidden web content manually, through OSINT, and with Gobuster.
 > Written while working through the TryHackMe **"Content Discovery"** room.
 
-🌐 Languages: [Azərbaycanca](content-discovery.md) | **English**
 
 ---
 
